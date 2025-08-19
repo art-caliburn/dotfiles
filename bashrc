@@ -8,7 +8,7 @@
 bind 'set show-all-if-ambiguous on'
 bind 'TAB:menu-complete'
 
-alias la='eza -la'
+alias la='eza --icons=auto -a'
 alias ls='eza --icons=auto'
 alias grep='grep --color=auto'
 alias dota='steam steam://rungameid/570/'
