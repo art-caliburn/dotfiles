@@ -18,8 +18,6 @@ format = "[ $path ]($style)"
 truncation_length = 3
 truncation_symbol = "…/"
 
-# ~/.config/starship.toml
-
 [directory.substitutions]
 "documents" = "󰈙 "
 "downloads" = " "
@@ -27,9 +25,6 @@ truncation_symbol = "…/"
 "pictures" = " "
 "games" = " "
 "desktop" = " "
-# ~/.config/starship.toml
-
-# ~/.config/starship.toml
 
 [username]
 show_always = true
